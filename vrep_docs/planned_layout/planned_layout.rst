@@ -1,27 +1,27 @@
 ********************************
 Planned layout for this document
 ********************************
-
-1. Overview of V-REP
-
-     a) Use cases
+1. Overview of this document 
+2. Overview of CSim
+     a) Use cases at e-Yantra
      b) Extensibilty and interfaces 
-2. Client side work
-     d) API
-     f) Advantages
-     g) How clients interface with the simulator
-3. Developer side work
+3. Client side work
+     a) API
+     b) Advantages
+     c) How clients interface with the simulator
+     d) The GUI for evaluation
+4. Developer side work
 
      a) Arena creation
      b) Automatic Evaluation 
-4. Planned Improvements on the Client-side
+5. Planned Improvements on the Client-side
 
      a) Interfacing with the e-Yantra circuit simulator
      b) Creating gripper interfaces for better pick and place, all new sensor development closely tied with the above point
      c) Creating a leaderboard for enhanced competition
      d) Creating a user interface to pick and choose between different arenas (Think of like netflix, or more closely steam interfaces)
 
-5. Planned Improvements on the Developer-side
+6. Planned Improvements on the Developer-side
 
      a) Automatic creation of arenas
      b) Automatic configuration of evaluators
@@ -32,4 +32,6 @@ Planned layout for this document
    
 7. Results of this being widely-deployed
 
-9. Beyond simulators
+8. Beyond simulators
+
+

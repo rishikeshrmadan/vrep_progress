@@ -1,0 +1,8 @@
+The coming sections will give an:
+Overview of V-REP, with links for learning additional resources.
+Primer to the Remote API
+Walkthrough for the current user application and it's functionality
+Walkthrough of the evaluation script
+Walkthrough of the GUI and how all of this is integrated
+Features planned (will have independent documents for these eventually)
+Insert timeline here (maybe vertical, horizontal will give more idea of gaps)
